@@ -47,9 +47,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <img align="center" alt="TypeScript" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
-<img align="center" alt="Java" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
 </div>
 
 ---
