@@ -1,7 +1,7 @@
 
-# 👋 William Barbosa
+#   William Barbosa
 
-## 💻 Sobre mim
+##  Sobre mim
 
 Comecei meus estudos pelo Frontend, onde aprendi HTML, CSS, JavaScript, React e Tailwind CSS.  
 Foi através do Frontend que desenvolvi minha base em desenvolvimento web e lógica de programação.
@@ -12,7 +12,7 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 ## Frontend
 
@@ -32,7 +32,7 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 ---
 
-# 📚 Atualmente estudando
+#  Atualmente estudando
 
 ✅ Node.js  
 ✅ Express  
@@ -44,7 +44,7 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 ---
 
-# 🔗 Conecte-se comigo
+#  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](SEU_LINK)
 
