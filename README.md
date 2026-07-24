@@ -28,6 +28,8 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 
 ---
