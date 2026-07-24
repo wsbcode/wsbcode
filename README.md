@@ -26,8 +26,8 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 ## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![Java 17 (Estudando)](https://img.shields.io/badge/Java_17_(Estudando)-111?style=for-the-badge&logo=openjdk)
+![Spring Boot (Estudando)](https://img.shields.io/badge/Spring_Boot_(Estudando)-111?style=for-the-badge&logo=springboot)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
 
 ---
