@@ -34,8 +34,8 @@ Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conh
 
 #  Atualmente estudando
 
-✅ Node.js  
-✅ Express  
+✅ Java
+✅ Spring  
 ✅ APIs REST  
 ✅ TypeScript  
 ✅ Arquitetura Backend  
