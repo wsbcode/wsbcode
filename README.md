@@ -3,12 +3,11 @@
 
 ##  Sobre mim
 
-Comecei meus estudos pelo Frontend, onde aprendi HTML, CSS, JavaScript, React e Tailwind CSS.  
-Foi através do Frontend que desenvolvi minha base em desenvolvimento web e lógica de programação.
+Comecei minha jornada na programação pelo Frontend, onde desenvolvi projetos utilizando HTML, CSS, JavaScript, React e Tailwind CSS. Essa experiência me proporcionou uma base em desenvolvimento web e na comunicação entre cliente e servidor.
 
-Hoje estou focado em Backend, área com a qual mais me identifico, principalmente pela parte lógica, estruturação de sistemas e desenvolvimento de APIs.
+Atualmente, meu foco está no desenvolvimento Backend com Java, área com a qual mais me identifico, especialmente pela lógica de programação, estruturação de sistemas, regras de negócio e desenvolvimento de APIs REST.
 
-Atualmente estudando Node.js e Express, enquanto continuo aproveitando meus conhecimentos de Frontend para construir aplicações e entender melhor a comunicação entre cliente e servidor.
+Sigo aprofundando meus conhecimentos em Java e avançando nos estudos de Spring Boot, além de continuar utilizando minha experiência com Frontend para compreender o desenvolvimento de aplicações de ponta a ponta.
 
 ---
 
